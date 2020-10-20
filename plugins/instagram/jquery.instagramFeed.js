@@ -2,12 +2,7 @@
  * jquery.instagramFeed
  *
  * @version 1.3.1
- *
- * @author Javier Sanahuja Liebana <bannss1@gmail.com>
- * @contributor csanahuja <csanahuja10@gmail.com>
- *
- * https://github.com/jsanahuja/jquery.instagramFeed
- *
+
  */
 (function ($) {
     var defaults = {
