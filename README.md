@@ -112,7 +112,7 @@ Visitors will be able to join live real time events of the church by clicking on
 
 **Contact Us:**
 
-<img src="pictures/contactus.png">
+<img src="pictures/contact123.png">
 
 <img src="pictures/contactus1.png">
 
